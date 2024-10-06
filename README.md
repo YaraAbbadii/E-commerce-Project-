@@ -4,18 +4,6 @@
 
 This project is a robust authentication and authorization system designed for an e-commerce platform. It ensures secure user access and management by implementing industry-standard practices for handling user credentials and permissions.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - User Registration: Allow users to create accounts securely.
